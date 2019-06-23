@@ -8,5 +8,6 @@ Azure Blockchain Workbench, is a framework and accelerator for implementing bloc
 # Préparation du déploiement
 ![Screenshot](DeploymentProg.PNG)
 
-# Configuration Azure AD
-
+# Configuration Azure Active Directory 
+Azure AD must be configured to complete your Azure Blockchain Workbench deployment. You will use a PowerShell script to perform the configuration.
+![Screenshot](ADConfig.PNG)
