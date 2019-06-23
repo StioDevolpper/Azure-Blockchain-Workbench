@@ -7,7 +7,7 @@ Azure Active Directory users in the tenant associated with Blockchain Workbench.
 
 # Architecture Azure Blockchain Workbench
 ![Screenshot](Archi.PNG)
-# Préparation du déploiement
+# Deployment preparation
 ![Screenshot](DeploymentProg.PNG)
 
 # Configuration Azure Active Directory 
