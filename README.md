@@ -15,3 +15,7 @@ Azure AD must be configured to complete your Azure Blockchain Workbench deployme
 The authenticated user requires permissions to create Azure AD application registrations and grant delegated application permissions
 using Azure Cloud Shell.
 ![Screenshot](AzureCloudShell.PNG)
+# New Azure Blockchain Workbench application:
+![Screenshot](06.PNG)
+# Using applications in Azure Blockchain Workbench
+![Screenshot](newAPPs.PNG)
