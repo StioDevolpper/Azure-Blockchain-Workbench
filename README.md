@@ -18,6 +18,7 @@ The authenticated user requires permissions to create Azure AD application regis
 using Azure Cloud Shell.
 ![Screenshot](AzureCloudShell.PNG)
 # New Azure Blockchain Workbench application:
+Create a smart contract code then upload the SOL and JSON files and add members to the blockchain application
 ![Screenshot](NewAppp.PNG)
 # Using applications in Azure Blockchain Workbench
 ![Screenshot](newAPPs.PNG)
