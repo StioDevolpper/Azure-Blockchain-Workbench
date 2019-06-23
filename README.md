@@ -6,7 +6,7 @@ Prerequisites:
 Azure Active Directory users in the tenant associated with Blockchain Workbench. For more information, see [add Azure AD users in Azure Blockchain Workbench!](https://docs.microsoft.com/en-us/azure/blockchain/workbench/manage-users#add-azure-ad-users).
 
 # Architecture Azure Blockchain Workbench
-![Screenshot](kArchitecture.png)
+![Screenshot](Archi.PNG)
 # Préparation du déploiement
 ![Screenshot](DeploymentProg.PNG)
 
